@@ -1,2 +1,7 @@
 # hello-world
-jus another reposiory
+just another reposiory
+
+
+Hi there
+
+ I am so happy to be here. 
